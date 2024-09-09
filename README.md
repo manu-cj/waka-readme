@@ -46,7 +46,7 @@ A GitHub repository and a `README.md` file is required. We'll be making use of r
   ```md
   <!--START_SECTION:waka-->
 
-```rust
+```javascript, php, java, lua, python
 From: 08 September 2024 - To: 08 September 2024
 
 Total Time: 0 secs
