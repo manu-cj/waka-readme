@@ -24,8 +24,8 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
-          CODE_LANG: javascript, php, java, lua, python  # optional
-          TIME_RANGE: all_time # optional
+          CODE_LANG: # Omit to include all languages
+          TIME_RANGE: last_7_days # Adjust as needed
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
