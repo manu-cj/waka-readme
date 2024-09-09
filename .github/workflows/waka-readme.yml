@@ -23,6 +23,7 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: -> # optional
+          CODE_LANG: JavaScript, Svelte # optional
           TIME_RANGE: last_7_days # Adjust as needed
           LANG_COUNT: 10
           SHOW_TIME: true
