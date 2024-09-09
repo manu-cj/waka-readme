@@ -23,7 +23,7 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: -> # optional
-          CODE_LANG: JavaScript # Omit to include all languages
+          CODE_LANG: -> # Omit to include all languages
           TIME_RANGE: all_time # Adjust as needed
           LANG_COUNT: 10
           SHOW_TIME: true
