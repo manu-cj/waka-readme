@@ -25,7 +25,7 @@ jobs:
           BLOCKS: ⬜🟧
           CODE_LANG: JavaScript, Svelte # Languages to prioritize
           TIME_RANGE: last_7_days # Adjust as needed
-          LANG_COUNT: 10
+          LANG_COUNT: 2
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
