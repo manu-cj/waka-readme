@@ -55,7 +55,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-  ```
+  
 
   `<!--START_SECTION: -->` and `<!--END_SECTION: -->` are placeholders and must be retained as is. Whereas "`waka`" can be replaced by any alphanumeric string. See [#Tweaks](#tweaks) section for more.
 
