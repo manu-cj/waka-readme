@@ -22,7 +22,7 @@ jobs:
           REPOSITORY: manu-cj/manu-cj
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ⬜🟦
+          BLOCKS: ⬜🟧
           CODE_LANG: JavaScript, Svelte # Languages to prioritize
           TIME_RANGE: last_7_days # Adjust as needed
           LANG_COUNT: 10
